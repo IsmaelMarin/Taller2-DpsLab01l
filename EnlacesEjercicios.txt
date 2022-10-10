@@ -1,0 +1,14 @@
+
+*******Enlaces para acceder a los ejercicios del taller número 2 de las
+    materia de DPS GP 01L *****************************
+
+
+
+#######Ejercicio1##########
+
+https://snack.expo.dev/@ismaelmarin/e6a282?platform=android
+
+
+#######Ejercicio2##########
+
+https://snack.expo.dev/@ismaelmarin/ejercicio2
